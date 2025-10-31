@@ -111,7 +111,7 @@ Contraseña: 123456
 
 ## Autor
 
-Jeronimo Escudero Cuartas
 Proyecto desarrollado con fines académicos como sistema de gestión de propiedades tipo Airbnb.  
+Jeronimo Escudero Cuartas.
 © 2025 **HostTrack**
 
